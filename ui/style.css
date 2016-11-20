@@ -9,15 +9,14 @@ margin:0;
     width:100%;
     background-size:cover;
     background-attachment:fixed;
-    background-color:pink;
     
 }
 .one{
 background-image:url(/ui/madi.png);
 }
  .two{
-     background-image:url(imad-2016-app/HD-pink-love-backgrounds.jpg);
+     background-image:url(/imad-2016-app/HD-pink-love-backgrounds.jpg);
  }
  .three{
-     background-image:url(imad-2016-app/macbook-headphones-and-flower-picjumbo-com.jpg);
+     background-image:url(/imad-2016-app/macbook-headphones-and-flower-picjumbo-com.jpg);
  }
